@@ -1,0 +1,20 @@
+.parent {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.children {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 50px;
+
+}
+
+.text {
+    margin-top: 20px;
+    text-align: center;
+    color: black;
+}
